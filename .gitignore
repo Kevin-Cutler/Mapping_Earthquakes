@@ -6,7 +6,7 @@ __pycache__/
 # C extensions
 *.so
 config.js
-
+Resources2
 # Distribution / packaging
 .Python
 build/
