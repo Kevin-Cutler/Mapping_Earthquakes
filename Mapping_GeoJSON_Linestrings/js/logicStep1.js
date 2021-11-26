@@ -30,7 +30,7 @@ let baseMaps = {
 // Create the map object with center, zoom level and default layer.
 let map = L.map('mapid', {
     center: [39.5, -98.5],
-    zoom: 11,
+    zoom: 3,
     layers: [streets]
 })
 
@@ -47,7 +47,7 @@ L.control.layers(baseMaps).addTo(map);
 // let torontoData = "https://raw.githubusercontent.com/Kevin-Cutler/Mapping_Earthquakes/main/torontoRoutes.json";
 
 // Accessing the Toronto airline routes GeoJSON URL.
-// let torontohoods = "https://raw.githubusercontent.com/Kevin-Cutler/Mapping_Earthquakes/main/torontoNeighborhoods.json";
+let torontohoods = "https://raw.githubusercontent.com/Kevin-Cutler/Mapping_Earthquakes/main/torontoNeighborhoods.json";
 
 
 // Retrieve the earthquake GeoJSON data.
