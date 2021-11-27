@@ -12,7 +12,8 @@ Working as a data visualization specialist for the Disaster Reporting Network a 
 * Earthquakes with a magnitude greater than 4.5 on the map.
 * Earthquake data displayed on Streets, Satellite, Dark view.
 
-![](Screenshot.png)
+<img width="427" alt="tectstreetview" src="https://user-images.githubusercontent.com/88467263/143722951-698713af-4b8a-4694-af7d-1135cea7cb06.PNG">
+
 
 ## Tectonic Plate View
 ______________________________
