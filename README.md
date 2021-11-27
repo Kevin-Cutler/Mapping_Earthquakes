@@ -32,7 +32,7 @@ ________________________________
 
 * Major Earthquakes are displayed with significantly larger diameters. The colors represent the magnitude of the earthquake and can be matched with the map legend to determine the size.
 
-<img width="446" alt="Majorsatellitview" src="https://user-images.githubusercontent.com/88467263/143722975-e3255d47-5c69-4ae6-80b2-12fe638f1626.PNG">
+![Magpopup](https://user-images.githubusercontent.com/88467263/143723313-2c3b80b0-b3e7-4401-8aa7-1fd2e20b502b.png)
 
 
 ## Additional Map (Dark View)
